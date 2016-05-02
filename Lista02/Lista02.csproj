@@ -69,6 +69,9 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Progressao.cs" />
+    <Compile Include="ProgressaoAritmetica.cs" />
+    <Compile Include="ProgressaoGeometrica.cs" />
     <Compile Include="Properties\AssemblyInfo.cs">
       <SubType>Code</SubType>
     </Compile>
